@@ -7,8 +7,3 @@ def get_days_from_today(date):
     current_date = datetime.today().date()
 
     return (current_date - given_date).days
-
-
-    
-
-

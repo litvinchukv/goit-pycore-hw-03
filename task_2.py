@@ -11,11 +11,3 @@ def get_numbers_ticket(min, max, quantity):
     unique_numbers.sort()
 
     return unique_numbers
-
-    
-
-
-
-
-        
-        

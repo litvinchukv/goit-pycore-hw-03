@@ -24,10 +24,3 @@ def get_upcoming_birthdays(users):
             upcoming_birthdays.append({"name": user["name"], "congratulation_date": congratulation_date.strftime("%Y.%m.%d")})
 
     return upcoming_birthdays
-
-
-    
-        
-
-
-    
