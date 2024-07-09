@@ -1,6 +1,5 @@
 from datetime import datetime, timedelta
 
-
 def get_upcoming_birthdays(users):
 
     today = datetime.today().date()
